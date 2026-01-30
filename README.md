@@ -12,4 +12,4 @@ App simples que busca o valor do dolar atualizado na api awesomeapi
 
     - 1 Clone este repositório
     - 2 Abra com Vs Code
-    - Execute o arquivo index.html com Live server
+    - 3 Execute o arquivo index.html com Live server
